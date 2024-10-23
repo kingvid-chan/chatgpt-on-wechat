@@ -1,0 +1,9 @@
+{
+    "channel_type": "wechatcom_app",
+    "wechatcom_corp_id": "ww7ec9a4735811df21",
+    "wechatcomapp_token": "68kLP8rYuYVolxeLiGp2Lpz",
+    "wechatcomapp_port": 6363,
+    "wechatcomapp_secret": "1234567890",
+    "wechatcomapp_agent_id": "1000002",
+    "wechatcomapp_aes_key": "ZhakNfDpHmx7tnP7R8GBONaNRmuUlK0ZHVzMKq1PHQf"
+}

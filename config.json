@@ -6,7 +6,7 @@
     "wechatcomapp_secret": "uY0bPV7T6sqNXApzKbr0w-eIQHzRnztbwGGD4mFhhSs",
     "wechatcomapp_agent_id": "1000002",
     "wechatcomapp_aes_key": "ZhakNfDpHmx7tnP7R8GBONaNRmuUlK0ZHVzMKq1PHQf",
-    "single_chat_prefix": [],
+    "single_chat_prefix": [""],
     "single_chat_reply_prefix": "",
     "group_chat_prefix": [],
 

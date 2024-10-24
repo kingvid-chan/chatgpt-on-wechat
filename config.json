@@ -6,6 +6,11 @@
     "wechatcomapp_secret": "uY0bPV7T6sqNXApzKbr0w-eIQHzRnztbwGGD4mFhhSs",
     "wechatcomapp_agent_id": "1000002",
     "wechatcomapp_aes_key": "ZhakNfDpHmx7tnP7R8GBONaNRmuUlK0ZHVzMKq1PHQf",
+    "single_chat_prefix": [],
+    "single_chat_reply_prefix": "",
+    "group_chat_prefix": [],
+
+
     "model": "",
     "open_ai_api_key": "YOUR API KEY",
     "claude_api_key": "YOUR API KEY",
@@ -14,14 +19,6 @@
     "text_to_voice": "openai",
     "proxy": "",
     "hot_reload": false,
-    "single_chat_prefix": [
-      "bot",
-      "@bot"
-    ],
-    "single_chat_reply_prefix": "[bot] ",
-    "group_chat_prefix": [
-      "@bot"
-    ],
     "group_name_white_list": [
       "ChatGPT测试群",
       "ChatGPT测试群2"

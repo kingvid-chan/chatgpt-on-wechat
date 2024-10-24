@@ -9,6 +9,7 @@
     "single_chat_prefix": [""],
     "single_chat_reply_prefix": "",
     "group_chat_prefix": [],
+    "hot_reload": true,
 
 
     "model": "",
@@ -18,7 +19,6 @@
     "voice_to_text": "openai",
     "text_to_voice": "openai",
     "proxy": "",
-    "hot_reload": false,
     "group_name_white_list": [
       "ChatGPT测试群",
       "ChatGPT测试群2"

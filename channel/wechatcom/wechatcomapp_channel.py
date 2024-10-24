@@ -21,6 +21,14 @@ from common.utils import compress_imgfile, fsize, split_string_by_utf8_length, c
 from config import conf, subscribe_msg
 from voice.audio_convert import any_to_amr, split_audio
 
+# CHANNEL_TYPE = "wechatcom_app"
+# WECHATCOM_CORP_ID = "ww7ec9a4735811df21"
+# WECHATCOMAPP_TOKEN = "68kLP8rYuYVolxeLiGp2Lpz"
+# WECHATCOMAPP_PORT = 6363
+# WECHATCOMAPP_SECRET = "uY0bPV7T6sqNXApzKbr0w-eIQHzRnztbwGGD4mFhhSs"
+# WECHATCOMAPP_AGENT_ID = "1000002"
+# WECHATCOMAPP_AES_KEY = "ZhakNfDpHmx7tnP7R8GBONaNRmuUlK0ZHVzMKq1PHQf"
+
 MAX_UTF8_LEN = 2048
 
 

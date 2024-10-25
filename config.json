@@ -14,19 +14,17 @@
 
 
     "model": "",
-    "open_ai_api_key": "YOUR API KEY",
-    "claude_api_key": "YOUR API KEY",
-    "text_to_image": "dall-e-2",
-    "voice_to_text": "openai",
-    "text_to_voice": "openai",
+    "open_ai_api_key": "",
+    "claude_api_key": "",
+    "text_to_image": "",
+    "voice_to_text": "",
+    "text_to_voice": "",
     "proxy": "",
     "group_name_white_list": [
       "ChatGPT测试群",
       "ChatGPT测试群2"
     ],
-    "image_create_prefix": [
-      "画"
-    ],
+    "image_create_prefix": [],
     "speech_recognition": true,
     "group_speech_recognition": false,
     "voice_reply_voice": false,

@@ -159,6 +159,8 @@ class Query:
         channel = WechatComAppChannel()
         params = web.input()
         logger.info("[wechatcom] receive params: {}".format(params))
+        print('[debug] params: ', params)
+        print('[debug] web.data(): ', web.data())
         try:
             signature = params.msg_signature
             timestamp = params.timestamp
